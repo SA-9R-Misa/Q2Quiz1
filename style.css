@@ -1,0 +1,14 @@
+body {
+	background-color: #FFFFE0;
+	color: #8B0000;
+}
+
+.container {
+	background-color: #CD5C5C;	
+	padding: 15px;
+}
+img {
+	width: 200px;
+	height: 200px;
+}
+
